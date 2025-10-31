@@ -1,0 +1,6 @@
+'Thay đổi khác đi, thay đổi từ trạng thái này sang trạng thái khác.','Đột nhiên không thấy nữa, không để lại dấu vết gì'
+'(Nước, chất lỏng) Tràn và phủ kín bề mặt','Nằm ở dưới sâu, bị phủ lấp kín.','Phủ, che lấp hết cả do quá nhiều và trải khắp'
+'là một nhà kín thường tròn hoặc hình bầu dục, được thiết kế để đóng vai trò là một nhà hát, phục vụ biểu diễn âm nhạc hoặc các sự kiện thể thao. Nó bao gồm một không gian mở rộng lớn bao quanh là các tầng ghế ngồi cho khán giả. Không gian diễn ra sự kiện là điểm thấp nhất, để khán giả có tầm nhìn tối đa.'
+'một công trình xây dựng có mái, tường bao quanh, cửa ra vào để ở, sinh hoạt văn hoá, xã hội hoặc cất giữ vật chất, phục vụ cho các hoạt động cá nhân và tập thể của con người, và có tác dụng bảo vệ cho các hoạt động đó. Nhà cũng có thể là một nơi cư trú hay trú ẩn. Tinh thần, nhà có thể liên quan tới trạng thái khi ở nơi trú ẩn hoặc sự tiện lợi.'
+'Thay đổi phần nào vị trí trong không gian','Có vị trí, hình dáng, trạng thái hoặc tính chất không ngừng thay đổi theo thời gian; trái với tĩnh. Trạng thái động.','Có những biến đổi trạng thái mạnh mẽ (nói về hiện tượng thiên nhiên).','Có dấu hiệu không bình thường cho thấy tình hình không yên, cần đề phòng','Chạm vào, hoặc nói chung có quan hệ tác động trực tiếp'
+''
